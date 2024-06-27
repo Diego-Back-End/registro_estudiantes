@@ -1,0 +1,18 @@
+nombre:diego
+edad:18
+RUT:12121
+nombre:diego escobedo
+edad:20
+RUT:121212
+nombre:gary
+edad:19
+RUT:12121
+nombre:bastian matu
+edad:12
+RUT:1212121
+nombre:brian 
+edad:15
+RUT:121211
+nombre:gabriell rossi
+edad:1212121
+RUT:1212121
